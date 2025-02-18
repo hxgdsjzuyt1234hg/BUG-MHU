@@ -5,6 +5,6 @@
 */
 
 module.exports = {
-    TokenS: "7776286968:AAEv-aNlU21h8E2uEiHiAsj8mY7PEVqA2ks",
+    TokenS: "7682784247:AAH6gwDVyy_DP_D6b-B8yScPhdbPCqzW46c",
     admins: ["7430156268"]
 };
